@@ -1,0 +1,37 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+th {
+  text-align: left;
+}
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+#square-1 {
+  background-color: #28f;
+}
+
+#square-2 {
+  background-color: #ef3;
+}
+
+#square-3 {
+  background-color: #f58;
+}
+
+#square-4 {
+  
+}
+
+#square-5 {
+  
+}
+
+#square-6 {
+  
+}
