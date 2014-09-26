@@ -6,6 +6,9 @@ The original plan for this exercise was to play a sort of telephone game. Person
 
 You can pass this off to your cohort-mates, or you can play telephone with yourself.
 
-For each square make sure that you are: a) sending some data up to the server when a user interacts with the square; b) manipulating the square (or something else in the DOM) by using the response that you get back from the server; c) some other interaction with the DOM should reverse the changes that you made (this doesn't need to be via AJAX, but will require JavaScript!).
+For each square make sure that you are:  
+1. sending some data up to the server when a user interacts with the square;  
+2. manipulating the square (or something else in the DOM) by using the response that you get back from the server;  
+3. implement another event that should reverse the DOM changes that you made upon the successful AJAX response (this doesn't need to be via AJAX, but will require JavaScript!).  
 
 Remember to run rake db:create and rake db:migrate (since there's a silly little table involved...)
