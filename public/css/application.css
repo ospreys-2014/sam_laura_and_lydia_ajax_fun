@@ -2,7 +2,6 @@
   margin: 20px auto;
   width: 600px;
   padding: 0px 20px 20px 20px;
-  border: 1px dotted black;
 }
 th {
   text-align: left;
@@ -12,9 +11,16 @@ th {
   height: 100px;
 }
 
+img {
+  display: block;
+  margin: auto;
+  visibility: hidden;
+}
+
 #square-1 {
   background-color: #28f;
 }
+
 
 #square-2 {
   background-color: #ef3;
@@ -25,13 +31,13 @@ th {
 }
 
 #square-4 {
-  
+  background-color: #2f9;
 }
 
 #square-5 {
-  
+  background-color: #f92;
 }
 
 #square-6 {
-  
+  background-color: #9922ff;
 }
